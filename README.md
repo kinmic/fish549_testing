@@ -5,3 +5,5 @@
 # File structre
 data
 r
+gitignore
+R project file
